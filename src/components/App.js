@@ -1,5 +1,5 @@
 import React from "react";
-
+import { About, Home, NavBar } from "./scr/components"; 
 function App() {
   return (
     <div>
